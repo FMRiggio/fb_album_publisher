@@ -1,0 +1,2 @@
+<?phpclass ConfFB{		const appIdKey = "api_id_key";		const appApiKey = "api_key";		const appCallbackUrl = "callback_url";		const permissions = 'read_stream, publish_stream, photo_upload, user_photos, user_photo_video_tags';		const pathToPhoto = 'path_to_photo';		/** @var array     Definizione Data Source di connessione al database.	 *	 */	const  host     = "host";	const  username = "username";	const  password = "password";	const  dbname   = "dbname"	}
+?>
